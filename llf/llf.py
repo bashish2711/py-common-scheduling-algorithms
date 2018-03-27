@@ -1,5 +1,4 @@
-#Author: Diego PERINI
-#License: Public Domain
+#!/usr/bin/python
 #Least laxity first scheduling implementation
 
 import string
